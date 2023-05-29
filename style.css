@@ -29,7 +29,7 @@ body{
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 .wrapper.active{
-  height: 530px;
+  height: 623px;
 }
 header h1{
   font-size: 21px;
@@ -87,7 +87,7 @@ header p{
   transition: opacity 0.5s 0.05s ease;
 }
 .qr-code img{
-  width: 170px;
+  width: 250px;
 }
 
 @media (max-width: 768px){
